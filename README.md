@@ -4,7 +4,7 @@ This repository serves as a dataset for research work done on Rule-based Marathi
 
 The dataset contains a list of gender prefixes, gender suffixes, and parts of speech. The transition table contains the list of all transitions from every state and for every part of speech. It also states whether the next state is an accepting state or not.
 
-</br> 
+</hr> 
 
 ### List of POS tags used:
 
